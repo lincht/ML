@@ -25,8 +25,7 @@ Machine learning algorithms built from scratch with Python.
     - [k-means](https://github.com/lincht/ML/blob/master/kmeans.ipynb)
     - Hierarchical clustering
 - Recommender system
-    - Content-based filtering
-    - Collaborative filtering
+    - [Collaborative filtering](https://github.com/lincht/ML/blob/master/cofi.ipynb)
 - Dimension reduction
     - t-SNE
     - PCA
