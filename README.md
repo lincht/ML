@@ -36,5 +36,6 @@ Machine learning algorithms built from scratch with Python.
     - Latent Dirichlet allocation
 
 ## Reinforcement learning
+- [Deep Q-network](https://github.com/lincht/ML/blob/master/dqn.ipynb)
 
 ## Transfer learning
