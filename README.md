@@ -30,7 +30,7 @@ Machine learning algorithms built from scratch with Python.
     - t-SNE
     - PCA
     - NMF
-- Anomaly detection
+- [Anomaly detection](https://github.com/lincht/ML/blob/master/andec.ipynb)
 - NLP
     - Word embedding
     - Latent Dirichlet allocation
