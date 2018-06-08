@@ -7,7 +7,7 @@ Machine learning algorithms built from scratch with Python.
     - [Linear regression](https://github.com/lincht/ML/blob/master/lm.ipynb)
     - [Regularized linear regression (ridge, lasso, elastic net)](https://github.com/lincht/ML/blob/master/lm_reg.ipynb)
 - Classification
-    - Logistic regression
+    - [Logistic regression](https://github.com/lincht/ML/blob/master/lr.ipynb)
     - SVM
     - [k-NN](https://github.com/lincht/ML/blob/master/knn.ipynb)
 - Tree-based
