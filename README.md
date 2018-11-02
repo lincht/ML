@@ -39,3 +39,6 @@ Machine learning algorithms built from scratch with Python.
 - [Deep Q-network](https://github.com/lincht/ML/blob/master/dqn.ipynb)
 
 ## Transfer learning
+
+## Miscellaneous
+- [Matrix factorization problems](https://github.com/lincht/ML/blob/master/mat_factorization.ipynb)
