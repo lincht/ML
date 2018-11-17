@@ -14,22 +14,23 @@ Machine learning algorithms built from scratch with Python.
     - Decision tree
 - Ensemble learning
     - Random forest
-    - Boosting
+    - Boosting (AdaBoost, Gradient Boosting)
 - Neural Networks
     - NN
     - CNN
     - RNN (incl. GRU, LSTM)
+- Recommender system
+    - [Collaborative filtering](https://github.com/lincht/ML/blob/master/cofi.ipynb)
 
 ## Unsupervised learning
 - Clustering
     - [k-means](https://github.com/lincht/ML/blob/master/kmeans.ipynb)
     - Hierarchical clustering
-- Recommender system
-    - [Collaborative filtering](https://github.com/lincht/ML/blob/master/cofi.ipynb)
-- Dimension reduction
+- Dimensionality reduction
     - t-SNE
     - PCA
     - NMF
+    - Factor analysis
 - [Anomaly detection](https://github.com/lincht/ML/blob/master/andec.ipynb)
 - NLP
     - Word embedding
